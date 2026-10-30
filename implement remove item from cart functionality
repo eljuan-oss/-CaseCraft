@@ -1,0 +1,4 @@
+function removeItem(index) {
+    cart.splice(index, 1);
+    displayCart();
+}
