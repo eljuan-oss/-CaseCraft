@@ -1,0 +1,8 @@
+function displayProducts() {
+    let productListDiv = document.getElementById('product-list');
+    productListDiv.innerHTML = '';
+    for (let i = 0; i < products.length; i++) {
+        let p = products[i];
+        productListDiv.innerHTML += `<div class="product-card"><img src="${p.image}"><h3>${p.name}</h3><p>$${p.price}</p></div>`;
+    }
+}
