@@ -1,6 +1,4 @@
-CaseCraft is a simple static frontend web application built as a learning project.
-It showcases a modern e-commerce storefront for engineered shockproof phone cases.
-The project is designed with a clean, minimalist layout and features a single-page view-switching navigation system.
+CaseCraft is a e-commerce storefront that showcases phone cases.
 
 TECHNOLOGIES USED
 
