@@ -1,0 +1,7 @@
+function changePage(pageName) {
+    let pages = document.getElementsByClassName('page');
+    for (let i = 0; i < pages.length; i++) {
+        pages[i].classList.remove('active');
+    }
+    document.getElementById('page-' + pageName).classList.add('active');
+}
