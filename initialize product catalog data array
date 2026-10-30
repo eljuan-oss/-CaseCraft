@@ -1,0 +1,5 @@
+let products = [
+    { id: 1, name: 'Spider Armor Case', price: 49.00, image: 'https://i.etsystatic.com/43333289/r/il/d8cec4/6965204456/il_fullxfull.6965204456_177y.jpg' },
+    { id: 2, name: 'Sunflower Case', price: 45.00, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnHnJJ8CmDFnx210LugGDdwaNjuqH6OVCdsf5BuUhyuX3IYzJDtZD0hrM&s=10' }
+];
+let cart = [];
