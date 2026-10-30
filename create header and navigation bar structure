@@ -1,0 +1,10 @@
+<header>
+    <div class="nav-container">
+        <a href="#" class="logo" onclick="changePage('home')">CASECRAFT</a>
+        <nav>
+            <button class="nav-btn active" id="nav-home" onclick="changePage('home')">Home</button>
+            <button class="nav-btn" id="nav-catalog" onclick="changePage('catalog')">Shop</button>
+            <button class="nav-btn" id="nav-cart" onclick="changePage('cart')">Cart</button>
+        </nav>
+    </div>
+</header>
