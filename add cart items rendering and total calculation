@@ -1,0 +1,4 @@
+function displayCart() {
+    let cartContainer = document.getElementById('cart-items');
+    cartContainer.innerHTML = cart.length === 0 ? '<p>Your cart is empty.</p>' : '';
+}
