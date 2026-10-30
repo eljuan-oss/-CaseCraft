@@ -2,9 +2,9 @@ CaseCraft is a e-commerce storefront that showcases phone cases.
 
 TECHNOLOGIES USED
 
-HTML5 (Semantic structure)
+HTML  (structure)
 
-CSS3 (Styling and layout)
+CSS (Styling and layout)
 
 Vanilla JavaScript (DOM manipulation and page navigation)
 
