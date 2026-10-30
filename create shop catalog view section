@@ -1,0 +1,4 @@
+<section id="page-catalog" class="page">
+    <h2>All Phone Cases</h2>
+    <div class="products-grid" id="product-list"></div>
+</section>
