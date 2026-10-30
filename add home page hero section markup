@@ -1,0 +1,9 @@
+<div class="container">
+    <section id="page-home" class="page active">
+        <div class="hero-section">
+            <h1>Protect Your Phone in Style</h1>
+            <p>We sell strong, shockproof phone cases.</p>
+            <button class="btn" onclick="changePage('catalog')">Shop Now</button>
+        </div>
+    </section>
+</div>
